@@ -415,10 +415,6 @@ body {
     color: var(--main-light-color);
 }
 
-.logo {
-    padding-top: 60px;
-}
-
 .contacts-footer {
     padding-top: 20px;
 }
